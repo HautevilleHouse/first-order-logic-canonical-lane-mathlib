@@ -1,0 +1,2 @@
+import FirstOrderLogicCanonicalLaneLean.GateLemmas
+import FirstOrderLogicCanonicalLaneLean.FinalTheorem
